@@ -172,20 +172,20 @@ hr {
 # LOAD MODEL
 # ==========================================
 
-# @st.cache_resource
-# def load_model():
-#     return joblib.load(MODEL_PATH)
+@st.cache_resource
+def load_model():
+    return joblib.load(MODEL_PATH)
 
 
-# if not MODEL_PATH.exists():
-#     st.error("Trained model not found. Check models/voice_detector.pkl.")
-#     st.stop()
+if not MODEL_PATH.exists():
+    st.error("Trained model not found. Check models/voice_detector.pkl.")
+    st.stop()
 
-# try:
-#     model = load_model()
-# except Exception as error:
-#     st.error(f"Unable to load model: {error}")
-#     st.stop()
+try:
+    model = load_model()
+except Exception as error:
+    st.error(f"Unable to load model: {error}")
+    st.stop()
 
 
 # ==========================================
