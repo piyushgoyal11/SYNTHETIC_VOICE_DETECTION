@@ -153,7 +153,7 @@ The system demonstrates how audio processing and machine learning can contribute
 
 **Platform:** Streamlit Community Cloud
 
-🔗 [Open VoiceGuard AI](https://syntheticvoicedetection-69cbmb3bppz9cz2f59au.streamlit.app/)
+🔗 [Open VoiceGuard AI](https://syntheticvoicedetection-69cbmb3bppz9cz3zfq59au.streamlit.app/)
 
 ---
 
