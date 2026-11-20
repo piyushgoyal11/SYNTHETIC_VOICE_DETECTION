@@ -22,7 +22,7 @@ VoiceGuard AI is a machine learning-based application designed to distinguish ge
 ## 🖥️ Application Preview
 
 **Live Application:**
-[🚀 Launch VoiceGuard AI](https://syntheticvoicedetection-69cbmb3bppz9cz2f59au.streamlit.app/](https://syntheticvoicedetection-69cbmb3bppz9cz3zfq59au.streamlit.app/)](https://syntheticvoicedetection-69cbmb3bppz9cz3zfq59au.streamlit.app/))
+[LIVE DEMO](https://syntheticvoicedetection-69cbmb3bppz9cz3zfq59au.streamlit.app/)
 
 ---
 
